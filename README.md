@@ -1,3 +1,3 @@
 # hello-world
 just another repository
-trying to evole myself
+trying to evolve myself
